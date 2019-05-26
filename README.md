@@ -1,6 +1,8 @@
 # SSD1306 128x64 for kicad
 Kicad footprints and templates for SSD1306 128x64px OLED Display.
 
+<img src="https://github.com/pforrmi/SSD1306-128x64-kicad/blob/master/images/ssd1306_3d.jpg" width=500>
+
 http://kicad-pcb.org
 
 ## SSD1306 as a component
