@@ -33,3 +33,5 @@ To add it to pcbnew:
 
 
 ### Further information may be found at https://ownsmarthome.de
+
+_The links marked with an asterisk (*) are commission links or advertising._
