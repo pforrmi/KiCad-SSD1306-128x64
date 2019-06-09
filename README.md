@@ -1,4 +1,4 @@
-# SSD1306 128x64 for kicad
+# SSD1306 128x64 for kicad [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 Kicad footprints and templates for [SSD1306 128x64px OLED Display*](https://amzn.to/2YUHoEB).
 
 <img src="https://github.com/pforrmi/SSD1306-128x64-kicad/blob/master/images/ssd1306_3d.jpg" width=500>
